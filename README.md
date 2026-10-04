@@ -2,7 +2,7 @@
 
 # 👋 Hi there，我是 白小炜
 
-### Java 后端开发者 · Unity 玩家 · 长期主义玩家
+### Java 后端开发者 · 游戏玩家 · 长期主义玩家
 
 ![Followers](https://img.shields.io/github/followers/ShiroWei?style=for-the-badge&logo=github)
 ![Stars](https://img.shields.io/github/stars/ShiroWei?style=for-the-badge&logo=github)
